@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Parallel-For-e/1.0.0": {
+        "runtime": {
+          "Parallel-For-e.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parallel-For-e/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

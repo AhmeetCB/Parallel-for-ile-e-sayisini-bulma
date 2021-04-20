@@ -1,0 +1,16 @@
+C:\Users\AhmetCB\Desktop\Parallel-For-e\obj\Debug\net5.0\Parallel-For-e.csprojAssemblyReference.cache
+C:\Users\AhmetCB\Desktop\Parallel-For-e\obj\Debug\net5.0\Parallel-For-e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AhmetCB\Desktop\Parallel-For-e\obj\Debug\net5.0\Parallel-For-e.AssemblyInfoInputs.cache
+C:\Users\AhmetCB\Desktop\Parallel-For-e\obj\Debug\net5.0\Parallel-For-e.AssemblyInfo.cs
+C:\Users\AhmetCB\Desktop\Parallel-For-e\obj\Debug\net5.0\Parallel-For-e.csproj.CoreCompileInputs.cache
+C:\Users\AhmetCB\Desktop\Parallel-For-e\bin\Debug\net5.0\Parallel-For-e.exe
+C:\Users\AhmetCB\Desktop\Parallel-For-e\bin\Debug\net5.0\Parallel-For-e.deps.json
+C:\Users\AhmetCB\Desktop\Parallel-For-e\bin\Debug\net5.0\Parallel-For-e.runtimeconfig.json
+C:\Users\AhmetCB\Desktop\Parallel-For-e\bin\Debug\net5.0\Parallel-For-e.runtimeconfig.dev.json
+C:\Users\AhmetCB\Desktop\Parallel-For-e\bin\Debug\net5.0\Parallel-For-e.dll
+C:\Users\AhmetCB\Desktop\Parallel-For-e\bin\Debug\net5.0\ref\Parallel-For-e.dll
+C:\Users\AhmetCB\Desktop\Parallel-For-e\bin\Debug\net5.0\Parallel-For-e.pdb
+C:\Users\AhmetCB\Desktop\Parallel-For-e\obj\Debug\net5.0\Parallel-For-e.dll
+C:\Users\AhmetCB\Desktop\Parallel-For-e\obj\Debug\net5.0\ref\Parallel-For-e.dll
+C:\Users\AhmetCB\Desktop\Parallel-For-e\obj\Debug\net5.0\Parallel-For-e.pdb
+C:\Users\AhmetCB\Desktop\Parallel-For-e\obj\Debug\net5.0\Parallel-For-e.genruntimeconfig.cache
