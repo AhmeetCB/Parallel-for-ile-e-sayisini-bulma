@@ -1,0 +1,1 @@
+# Parallel-for-ile-e-sayisini-bulma
